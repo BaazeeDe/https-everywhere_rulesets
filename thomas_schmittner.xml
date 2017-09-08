@@ -1,0 +1,17 @@
+<!--
+	Thomas Schmittner
+-->
+<ruleset name="thomas_schmittner.xml">
+
+	<target host="thomas-schmittner.de" />
+	<target host="edv-schmittner.de" />
+	<target host="baazee.de" />
+	<target host="schmittner.us" />
+	<target host="crypto-currency-miner.com" />
+	<target host="cdo.airforce" />
+
+
+	<rule from="^http:"
+		to="https:" />
+
+</ruleset>
