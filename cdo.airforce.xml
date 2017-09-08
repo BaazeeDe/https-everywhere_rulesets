@@ -1,0 +1,11 @@
+<!--
+	cdo.airforce
+-->
+<ruleset name="cdo.airforce.xml">
+
+	<target host="cdo.airforce" />
+
+	<rule from="^http:"
+		to="https:" />
+
+</ruleset>

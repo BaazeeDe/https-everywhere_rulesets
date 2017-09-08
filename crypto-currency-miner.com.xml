@@ -1,0 +1,11 @@
+<!--
+	crypto-currency-miner.com
+-->
+<ruleset name="crypto-currency-miner.com.xml">
+
+	<target host="crypto-currency-miner.com" />
+
+	<rule from="^http:"
+		to="https:" />
+
+</ruleset>

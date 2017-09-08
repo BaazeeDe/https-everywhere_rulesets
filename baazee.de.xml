@@ -1,0 +1,11 @@
+<!--
+	baazee.de
+-->
+<ruleset name="baazee.de.xml">
+
+	<target host="baazee.de" />
+
+	<rule from="^http:"
+		to="https:" />
+
+</ruleset>

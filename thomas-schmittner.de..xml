@@ -1,0 +1,11 @@
+<!--
+	thomas-schmittner.de
+-->
+<ruleset name="thomas-schmittner.de.xml">
+
+	<target host="thomas-schmittner.de" />
+
+	<rule from="^http:"
+		to="https:" />
+
+</ruleset>

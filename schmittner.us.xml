@@ -1,0 +1,11 @@
+<!--
+	schmittner.us
+-->
+<ruleset name="schmittner.us.xml">
+
+	<target host="schmittner.us" />
+
+	<rule from="^http:"
+		to="https:" />
+
+</ruleset>

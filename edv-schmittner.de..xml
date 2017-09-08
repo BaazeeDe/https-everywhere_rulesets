@@ -1,0 +1,11 @@
+<!--
+	edv-schmittner.de
+-->
+<ruleset name="edv-schmittner.de.xml">
+
+	<target host="edv-schmittner.de" />
+
+	<rule from="^http:"
+		to="https:" />
+
+</ruleset>
